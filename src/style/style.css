@@ -1,0 +1,36 @@
+*{
+    margin:0 auto;
+    padding:0;
+    list-style: none;
+    font-family : "Noto Sans KR";
+}
+
+.header{
+    width: 80vw;
+    height:10vh;
+    background-color: aquamarine;
+}
+
+.projects{
+    width:80vw;
+    height:30vh;
+    background-color: antiquewhite;
+}
+
+.container{
+    width : 100%;
+    height: 100%;
+}
+.project{
+    display:inline-block;
+    width : 200px;
+    height : 100%;
+    background-color: burlywood;
+}
+
+.project-add{
+    display :inline-block;
+    width : 200px;
+    height : 100%;
+    background-color: burlywood;
+}
